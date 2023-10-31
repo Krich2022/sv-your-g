@@ -1,0 +1,21 @@
+{
+  "name": "sv-your-g",
+  "version": "1.0.0",
+  "description": "A simple SVG generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krich2022/sv-your-g.git"
+  },
+  "author": "Krich2022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krich2022/sv-your-g/issues"
+  },
+  "homepage": "https://github.com/Krich2022/sv-your-g#readme",
+  "dependencies": {
+"inquirer": "8.2.4"  }
+}

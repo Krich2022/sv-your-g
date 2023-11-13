@@ -28,6 +28,8 @@ npm test
 
 Run node index.js in the comand line and input your parameters. Your file will be placed in the examples folder.
 
+Here is the link to the [video walkthrough](https://drive.google.com/file/d/1PApyNDhQBLvRctMdu6rH_DTmzQyyp1ux/view)
+
 ### Repository
 
 Link to Repository: `https://github.com/Krich2022/sv-your-g`
